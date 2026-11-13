@@ -1,7 +1,0 @@
-<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-<path d="M7 61V27A25 25 0 0 1 57 27V61Z" fill="#5A1526" stroke="#B08A4E" stroke-width="2"/>
-<path d="M13 56V28.5A19 19 0 0 1 51 28.5V56Z" fill="none" stroke="#E4D0A8" stroke-opacity=".55" stroke-width="1"/>
-<text x="32" y="45" text-anchor="middle" font-family="'Cormorant Garamond',Georgia,serif" font-weight="700" font-size="22" fill="#E4D0A8" letter-spacing="1">RL</text>
-<path d="M20 50.5H44" stroke="#B08A4E" stroke-width="1.4"/>
-<path d="M32 13l2.2 2.2L32 17.4l-2.2-2.2Z" fill="#B08A4E"/>
-</svg>
